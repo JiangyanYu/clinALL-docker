@@ -3,3 +3,4 @@
    docker build -t clinall:1.0 . <br>
    holoviews==1.14.9 panel==0.12.7 jinja2==3.0.3 bokeh==2.3.3 <br>
 1.2)Copy clinall-master file into /media folder  <br>
+2. Image is pushed to jiangyanyu/clinall:alpha
